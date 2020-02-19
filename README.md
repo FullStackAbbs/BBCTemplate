@@ -4,7 +4,6 @@
  
  
  ![ screenshot of application](https://github.com/FullStackAbbs/BBCTemplate/blob/master/img/project-2.jpg)
- ![ screenshot of application](https://github.com/FullStackAbbs/BBCTemplate/blob/master/img/project-3.jpg)
  
 # How It's Made:
  Tech used: HTML, CSS, JavaScript
