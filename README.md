@@ -1,6 +1,6 @@
 # BBCTemplate
  
- Project scope: Design a layout replicia of the widely known news network, BBC.
+ Project scope: Design a layout replica of the widely known news network, BBC.
  
  
  ![ screenshot of application](https://github.com/FullStackAbbs/BBCTemplate/blob/master/img/project-2.jpg)
