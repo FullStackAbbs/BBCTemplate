@@ -9,7 +9,7 @@
  Tech used: HTML, CSS, JavaScript
 
 # Optimizations 
-Optimizations would include the user abiity to remove already placed items as well as, edit previously listed items.
+Optimizations would include improving the user experience especially in terms of accessibility.
 
 # Lesson Learned:
 * Layout Design CSS
